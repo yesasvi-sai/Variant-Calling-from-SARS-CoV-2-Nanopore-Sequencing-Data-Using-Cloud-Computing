@@ -43,3 +43,4 @@ Software and Computational Tools
 Conclusion
 
 The integration of cloud computing into SARS-CoV-2 variant detection workflows offers a viable and efficient alternative to traditional HPC infrastructures. By leveraging scalable resources and distributed computing frameworks, cloud-based platforms can substantially enhance the speed, flexibility, and reproducibility of bioinformatics analyses.
+
